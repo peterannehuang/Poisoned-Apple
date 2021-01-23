@@ -1,6 +1,7 @@
 # Poisoned-Apple
 Poison Apple Regression Unit Testing Framework
-CC BY-NC-ND
+
+CC BY-NC-ND 4.0
 
 這是一個測試架構，基於業務方面的測試，來產生自動化執行的單元測試案例。
 基本概念如下：
